@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="title_signup_page">Complete your data below.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Input your data</string>
+    <string name="title_login_page">Login</string>
+    <string name="name">Name</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Log out</string>
+    <string name="register">Register</string>
+    <string name="description">Input Caption</string>
+    <string name="welcome">Welcome</string>
+    <string name="retry">Try Again</string>
+    <string name="timeout">Timeout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="empty_image">Please select the image first</string>
+    <string name="upload">Upload</string>
+    <string name="image_story">Image Story</string>
+    <string name="capture_image">Capture image button</string>
+    <string name="switch_camera_button">Switch Camera Button</string>
+    <string name="image_login">Image login</string>
+    <string name="register_image">Register image</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="email_error">Email must be in the format user@email.com</string>
+    <string name="pass_error">Password must be at least 8 characters long</string>
+    <string name="upload_a_story">Upload a story</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Include Location</string>
+    <string name="location_not_found">Location is not found</string>
+    <string name="email_regex">^[A-Za-z0-9]+@[A-Za-z]+\.com$</string>
+    <string name="file_name_format">yyyyMMdd_HHmmss</string>
+    <string name="fail_open_camera">Fail open the camera</string>
+    <string name="fail_take_picture">Fail take the  picture</string>
+    <string name="next">Next</string>
+    <string name="error">Error</string>
+    <string name="message">Message</string>
+    <string name="ask_logout">Logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="fail_parse_mapstyle">Failed to parse map style.</string>
+    <string name="not_found_mapstyle">Can not find map style.</string>
+    <string name="no_media_selected">No media selected</string>
+    <string name="permission_granted">Permission request granted</string>
+    <string name="permission_denied">Permission request denied</string>
+    <string name="unknown_vm">"Unknown ViewModel class: "</string>
+    <string name="register_success">Register Success!</string>
+
+
+</resources>
